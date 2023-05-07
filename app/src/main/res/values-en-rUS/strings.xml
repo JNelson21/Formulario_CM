@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="careers_array">
+        <item>None</item>
+        <item>Aerospace Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Geomatics Engineering</item>
+        <item>Environmental Engineering</item>
+        <item>Geophysical Engineering</item>
+        <item>Geological Engineering</item>
+        <item>Petroleum Engineering</item>
+        <item>Mining and Metallurgical Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Telecommunications Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Industrial Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Biomedical Systems Engineering</item>
+    </string-array>
+
+    <string name="app_name">Form_CM</string>
+    <string name="formulario">Form</string>
+    <string name="nombre">First Name</string>
+    <string name="apellidos">Last Name</string>
+    <string name="fecha_nacimiento">Date of Birth</string>
+    <string name="correo_electronico">Email</string>
+    <string name="numero_cuenta">Account Number</string>
+    <string name="siguiente">Next</string>
+    <string name="carreras">Careers</string>
+    <string name="splash">Splash</string>
+
+    <string name="form_profile">Profile</string>
+    <string name="nombreCompleto">%1$s %2$s</string>
+    <plurals name="yearsOld">
+        <item quantity="one">Age: %d year</item>
+        <item quantity="other">Age: %d years</item>
+    </plurals>
+    <string name="carrera">Career</string>
+
+    <string name="completarFormulario">Please complete the form.</string>
+    <string name="msCuenta">Incorrect account number</string>
+    <string name="msCarrera">Specify your career</string>
+    <string name="msFechaNacimiento">Check your date of birth</string>
+    <string name="msCorreoElectronico">Invalid email</string>
+
+
+    <string name="Acuario">Aquarius</string>
+    <string name="Capricornio">Capricorn</string>
+    <string name="Piscis">Pisces</string>
+    <string name="Aries">Aries</string>
+    <string name="Tauro">Taurus</string>
+    <string name="Geminis">Gemini</string>
+    <string name="Cancer">Cancer</string>
+    <string name="Leo">Leo</string>
+    <string name="Virgo">Virgo</string>
+    <string name="Libra">Libra</string>
+    <string name="Escorpio">Scorpio</string>
+    <string name="Sagitario">Sagittarius</string>
+
+    <string name="Mono">Monkey</string>
+    <string name="Pollo">Rooster</string>
+    <string name="Cerdo">Pig</string>
+    <string name="Perro">Dog</string>
+    <string name="Rata">Rat</string>
+    <string name="Buey">Ox</string>
+    <string name="Tigre">Tiger</string>
+    <string name="Conejo">Rabbit</string>
+    <string name="Dragon">Dragon</string>
+    <string name="Serpiente">Snake</string>
+    <string name="Caballo">Horse</string>
+    <string name="Oveja">Sheep</string>
+
+    <string name="version">Version 1.0</string>
+
+</resources>

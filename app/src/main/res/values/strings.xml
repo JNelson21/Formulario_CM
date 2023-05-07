@@ -1,0 +1,76 @@
+<resources>
+    <string-array name="careers_array">
+        <item>Ninguno</item>
+        <item>Ingeniería Aeroespacial</item>
+        <item>Ingeniería Civil</item>
+        <item>Ingeniería Geomática</item>
+        <item>Ingeniería Ambiental</item>
+        <item>Ingenieria Geofísica</item>
+        <item>Ingenieria Geológica</item>
+        <item>Ingenieria Petrolera</item>
+        <item>Ingenieria de Minas y Metalurgia</item>
+        <item>Ingenieria en Computación</item>
+        <item>Ingenieria Eléctica Electrónica</item>
+        <item>Ingenieria en Telecomuniaciones</item>
+        <item>Ingenieria Mecánica</item>
+        <item>Ingenieria Industrial</item>
+        <item>Ingenieria Mecatrónica</item>
+        <item>Ingenieria en Sistemas Biomédicos</item>
+    </string-array>
+
+    <string name="app_name">Formulario_CM</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="numero_cuenta">Número de cuenta</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="carreras">Carreras</string>
+    <string name="splash">Splash</string>
+
+    <string name="form_profile">Perfil</string>
+    <string name="nombreCompleto">%1$s %2$s</string>
+    <plurals name="yearsOld">
+        <item quantity="one">Edad: %d año</item>
+        <item quantity="other">Edad: %d años</item>
+    </plurals>
+    <string name="carrera">Carrera</string>
+
+    <string name="completarFormulario">Por favor, complete el formulario.</string>
+    <string name="msCuenta">Número de cuenta incorrecto</string>
+    <string name="msCarrera">Especifica tu carrera</string>
+    <string name="msFechaNacimiento">Revisa tu fecha de nacimiento</string>
+    <string name="msCorreoElectronico">Correo electrónico no válido</string>
+
+
+    <string name="Acuario">Acuario</string>
+    <string name="Capricornio">Capricornio</string>
+    <string name="Piscis">Piscis</string>
+    <string name="Aries">Aries</string>
+    <string name="Tauro">Tauro</string>
+    <string name="Geminis">Géminis</string>
+    <string name="Cancer">Cáncer</string>
+    <string name="Leo">Leo</string>
+    <string name="Virgo">Virgo</string>
+    <string name="Libra">Libra</string>
+    <string name="Escorpio">Escorpio</string>
+    <string name="Sagitario">Sagitario</string>
+
+    <string name="Mono">Mono</string>
+    <string name="Pollo">Pollo</string>
+    <string name="Cerdo">Cerdo</string>
+    <string name="Perro">Perro</string>
+    <string name="Rata">Rata</string>
+    <string name="Buey">Buey</string>
+    <string name="Tigre">Tigre</string>
+    <string name="Conejo">Conejo</string>
+    <string name="Dragon">Dragon</string>
+    <string name="Serpiente">Serpiente</string>
+    <string name="Caballo">Caballo</string>
+    <string name="Oveja">Oveja</string>
+
+    <string name="autor" translatable="false">Jose Nelson Colunche Sanchez</string>
+    <string name="version">Versión 1.0</string>
+
+</resources>
