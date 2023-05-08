@@ -44,7 +44,7 @@ class Profile : AppCompatActivity() {
     }
 
     private fun setArrayCarreras() : ArrayList<Int>{
-        val arrayImagenes = ArrayList<Int>(2)
+        val arrayImagenes = ArrayList<Int>(16)
         arrayImagenes.add(0)
         arrayImagenes.add(R.drawable.ingenieria_espacial)
         arrayImagenes.add(R.drawable.ingenieria_civil)
@@ -55,7 +55,7 @@ class Profile : AppCompatActivity() {
         arrayImagenes.add(R.drawable.ingenieria_petrolera)
         arrayImagenes.add(R.drawable.ingenieria_minas)
         arrayImagenes.add(R.drawable.ingenieria_computacion)
-        arrayImagenes.add(R.drawable.ingenieria_electrica)
+        arrayImagenes.add(R.drawable.ingenieria_electronica)
         arrayImagenes.add(R.drawable.ingenieria_telecomunicaciones)
         arrayImagenes.add(R.drawable.ingenieria_mecanica)
         arrayImagenes.add(R.drawable.ingenieria_industrial)
